@@ -9,7 +9,7 @@
 - 💼 3 years of professional experience in **GenAI, Classical Machine Learning, Time Series Forecasting, MLOps, and Computer Vision**  
 - 🔭 Worked on projects in **Energy, Legal AI, Finance, and Computer Vision domains**  
 - 🌱 Actively exploring **LLM Fine-tuning, RAG Applications, and Advanced Deep Learning**  
-- 💬 Ask me about **Python, Scikit-learn, TensorFlow, PyTorch, MLOps (AWS, Azure, GCP)**  
+- 💬 Ask me about **Python, Scikit-learn, TensorFlow, PyTorch, Keras,MLOps (AWS, Azure, GCP)**  
 - 📫 Reach me at **rohanbagulwarrb@gmail.com**
 
 ---
